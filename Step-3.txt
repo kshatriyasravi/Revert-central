@@ -1,0 +1,1 @@
+6. create a third branch and move the step1 and step 3 to master branch and push the branch to central repository.. 

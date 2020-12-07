@@ -1,0 +1,3 @@
+4 now to commit the file you need to type this command "git commit -m "this is first process"
+5. now type the command git status and check weather thhis step1 file is moved into local repository or not..
+6. now create a other branch called branch-1 and add the step-2 file..

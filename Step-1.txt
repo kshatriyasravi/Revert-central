@@ -1,0 +1,4 @@
+1. create a git hub account and click on repository and add create one repo with the name git process..
+and in git bucket type git init to call the git bucket ionto the selected folder...
+2. in the second step connect the bigbucket and git hub using this coomand "git remote add origin "https://github.com/kshatriyasravi/Git-GitHub-Processor.git" enter
+3. now add this file into the local repository with this command "git add Step-1.txt" click enter this will move into staging area.
